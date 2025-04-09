@@ -4,7 +4,7 @@ const app = express();
 app.set('view engine', 'ejs');
 
 const user = {
-    name: "cherry",
+    name: "charitha",
     age: "18"
 };
 
